@@ -9,7 +9,7 @@ To see a working demo of Guess My Number, you can visit https://ambitama01.githu
 The objective of Guess My Number is simple: we need to guess a secret number between 1 and 20. Enter your guess in the input field, click "Check," and you'll receive a message indicating if your guess is too low or too high. With each failed guess, your score decreases by one. When you guess the correct number, the screen turns green and you receive a "Correct number!" message. The highscore is also displayed, representing the best score achieved so far. If you want to play again, simply click the "Again!" button to reset the game, except for the highscore.
 
 ## Project Files
-To access the project files, please visit the [GitHub repository](github-repository-link-goes-here). Inside the repository, you will find the following files:
+To access the project files, please visit the https://github.com/Ambitama01/Guess-My-Number. Inside the repository, you will find the following files:
 
 - **Prettier configuration**: Contains the Prettier configuration used for code formatting, which should be used throughout all projects in this section.
 - **Empty Script**: An empty JavaScript file where you will write the code for Guess My Number.
